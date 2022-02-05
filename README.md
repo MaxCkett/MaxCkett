@@ -1,4 +1,4 @@
-<div align="right"><img src="https://komarev.com/ghpvc/?username=MaxCkett&color=orange&style=flat-square"/></div>
+<div align="right"><img src="https://komarev.com/ghpvc/?username=MaxCkett&color=orange"/></div>
 
 #### Hi there:wave:, I'm [Maximilian Beckett](https://maxckett.github.io/)
 
