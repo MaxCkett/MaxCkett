@@ -17,4 +17,4 @@
 ## :chart_with_upwards_trend: Github Status:
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=MaxCkett&column=8&margin-w=15&margin-h=15"/>
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=MaxCkett&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxCkett&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxCkett&layout=compact&hide_border=true"/>
