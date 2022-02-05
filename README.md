@@ -1,13 +1,13 @@
 <div align="right"><img src="https://komarev.com/ghpvc/?username=MaxCkett&color=orange"/></div>
 
-#### Hi there:wave:, I'm [Maximilian Beckett](https://maxckett.github.io/)
+### Hi there:wave:, I'm [Maximilian Beckett](https://maxckett.github.io/)
 
-![](https://github.com/MaxCkett/MaxCkett/blob/main/coding.gif)
+<div align="center"> <img src="https://github.com/MaxCkett/MaxCkett/blob/main/coding.gif"/></div>
 <div align="left">
 <a href="https://Linkedin.com/in/MaxCkett"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/MaxCkett"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/MaxCkett"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a></br>
 <a href="https://www.instagram.com/MaxCkett"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/MaxCkett"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<!-- <a href="https://twitter.com/MaxCkett"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
 <a href="https://t.me/MaxCkett"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
 
