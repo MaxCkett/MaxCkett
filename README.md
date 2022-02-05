@@ -4,8 +4,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MaxCkett)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MaxCkett)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaxCkett)
-<img align="right" src="https://github.com/MaxCkett/MaxCkett/blob/main/coding.gif"/>
-
+<!-- <img align="right" src="https://github.com/MaxCkett/MaxCkett/blob/main/coding.gif"/>
+ -->
 #### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=MaxCkett)
 
 ## :chart_with_upwards_trend: Github Status:
