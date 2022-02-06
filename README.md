@@ -18,3 +18,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=MaxCkett&no-frame=true" align="center" width="100%"/>
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=MaxCkett&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxCkett&layout=compact&hide_border=true"/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
