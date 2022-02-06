@@ -18,9 +18,12 @@
 <img src="https://github-profile-trophy.vercel.app/?username=MaxCkett&no-frame=true" align="center" width="100%"/>
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=MaxCkett&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxCkett&layout=compact&hide_border=true"/>
+<br/><br/>
+
+<div align="left">
+
+## :ballot_box_with_check: My activity:
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
+</div>
