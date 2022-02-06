@@ -22,7 +22,7 @@
 
 <div align="left">
 
-## My Activity:
+## :briefcase: My Activity:
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%206%20mins-blue)
