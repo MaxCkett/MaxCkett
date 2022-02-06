@@ -11,6 +11,7 @@
 <a href="https://t.me/MaxCkett"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.twitch.tv/maxckett"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 <a href="https://discord.gg/RcPnpe77fY"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://teams.live.com/l/invite/FAA715No_oREnbYqgE"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/></a>
 </div>
 
 ## :chart_with_upwards_trend: Github Status:
