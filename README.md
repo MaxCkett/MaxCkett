@@ -31,7 +31,7 @@
 
 > 🏆 69 Contributions in the Year 2022
  > 
-> 📦 168 Bytes Used in GitHub's Storage 
+> 📦 171 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,15 +68,13 @@ Sunday       27 commits     ███████████░░░░░░�
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-JavaScript               4 mins              ██████████████░░░░░░░░░░░   57.86% 
-HTML                     3 mins              ██████████░░░░░░░░░░░░░░░   41.01% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -95,7 +93,7 @@ C                        1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/MaxCkett/MaxCkett/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/02/2022 02:17:51 UTC
+ Last Updated on 24/02/2022 02:31:19 UTC
 <!--END_SECTION:waka-->
   
 </div>
