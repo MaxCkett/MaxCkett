@@ -25,13 +25,15 @@
 ## :briefcase: My Activity:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-764%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 69 Contributions in the Year 2022
  > 
-> 📦 170 Bytes Used in GitHub's Storage 
+> 📦 172 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,7 +95,7 @@ C                        1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/MaxCkett/MaxCkett/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/05/2022 00:44:21 UTC
+ Last Updated on 08/05/2022 00:45:11 UTC
 <!--END_SECTION:waka-->
   
 </div>
