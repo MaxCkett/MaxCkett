@@ -33,7 +33,7 @@
 
 > 🏆 69 Contributions in the Year 2022
  > 
-> 📦 199 Bytes Used in GitHub's Storage 
+> 📦 201 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,7 +95,7 @@ C                        1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/MaxCkett/MaxCkett/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/07/2022 00:53:09 UTC
+ Last Updated on 19/07/2022 00:59:07 UTC
 <!--END_SECTION:waka-->
   
 </div>
