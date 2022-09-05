@@ -25,7 +25,7 @@
 ## :briefcase: My Activity:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-764%20lines%20of%20code-blue)
 
@@ -33,7 +33,7 @@
 
 > 🏆 69 Contributions in the Year 2022
  > 
-> 📦 239 Bytes Used in GitHub's Storage 
+> 📦 241 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,45 +41,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    35 commits     ███████████████░░░░░░░░░░   60.34% 
-🌆 Daytime    9 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
-🌃 Evening    9 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
-🌙 Night      5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.62%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-Wednesday    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-Thursday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72% 
-Friday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Saturday     14 commits     ██████░░░░░░░░░░░░░░░░░░░   24.14% 
-Sunday       27 commits     ███████████░░░░░░░░░░░░░░   46.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tehran
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -95,7 +56,7 @@ C                        1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/MaxCkett/MaxCkett/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 00:57:03 UTC
+ Last Updated on 05/09/2022 01:06:35 UTC
 <!--END_SECTION:waka-->
   
 </div>
